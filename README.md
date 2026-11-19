@@ -1,4 +1,4 @@
-# novumos-app
+# NovumOS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,169 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-novumos-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://novumos.app/
+NovumOS provides a work board for teams and AI assistants, enabling organization of clients, content, and deadlines while automating busywork with AI. Users can see all AI actions, manage projects, and collaborate efficiently. The platform offers flexible pricing per seat and comprehensive developer documentation for API integration.
+
+**Areas:** Work board · AI assistants · Project management · API · Pricing
+
+## NovumOS on APIs.io
+
+Everything profiled for NovumOS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/novumos-app/](https://apis.io/providers/novumos-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [NovumOS Admin API](https://apis.io/apis/novumos-app/novumos-app-admin-api/) — The admin API from NovumOS — 39 operation(s) for admin.
+- [NovumOS Auth API](https://apis.io/apis/novumos-app/novumos-app-auth-api/) — The auth API from NovumOS — 10 operation(s) for auth.
+- [NovumOS Automations API](https://apis.io/apis/novumos-app/novumos-app-automations-api/) — The automations API from NovumOS — 4 operation(s) for automations.
+- [NovumOS Autopilot API](https://apis.io/apis/novumos-app/novumos-app-autopilot-api/) — The autopilot API from NovumOS — 1 operation(s) for autopilot.
+- [NovumOS Beacon API](https://apis.io/apis/novumos-app/novumos-app-beacon-api/) — The beacon API from NovumOS — 4 operation(s) for beacon.
+- [NovumOS Billing API](https://apis.io/apis/novumos-app/novumos-app-billing-api/) — The billing API from NovumOS — 3 operation(s) for billing.
+- [NovumOS Blocks API](https://apis.io/apis/novumos-app/novumos-app-blocks-api/) — The blocks API from NovumOS — 3 operation(s) for blocks.
+- [NovumOS Board Access API](https://apis.io/apis/novumos-app/novumos-app-board-access-api/) — The board-access API from NovumOS — 5 operation(s) for board-access.
+- [NovumOS Boards API](https://apis.io/apis/novumos-app/novumos-app-boards-api/) — The boards API from NovumOS — 10 operation(s) for boards.
+- [NovumOS Card Templates API](https://apis.io/apis/novumos-app/novumos-app-card-templates-api/) — The card-templates API from NovumOS — 4 operation(s) for card-templates.
+- [NovumOS Cards API](https://apis.io/apis/novumos-app/novumos-app-cards-api/) — The cards API from NovumOS — 7 operation(s) for cards.
+- [NovumOS Comments API](https://apis.io/apis/novumos-app/novumos-app-comments-api/) — The comments API from NovumOS — 2 operation(s) for comments.
+- [NovumOS Email Outbox API](https://apis.io/apis/novumos-app/novumos-app-email-outbox-api/) — The email-outbox API from NovumOS — 1 operation(s) for email-outbox.
+- [NovumOS Export API](https://apis.io/apis/novumos-app/novumos-app-export-api/) — The export API from NovumOS — 2 operation(s) for export.
+- [NovumOS Feedback API](https://apis.io/apis/novumos-app/novumos-app-feedback-api/) — The feedback API from NovumOS — 4 operation(s) for feedback.
+- [NovumOS Files API](https://apis.io/apis/novumos-app/novumos-app-files-api/) — The files API from NovumOS — 4 operation(s) for files.
+- [NovumOS Import Jobs API](https://apis.io/apis/novumos-app/novumos-app-import-jobs-api/) — The import-jobs API from NovumOS — 5 operation(s) for import-jobs.
+- [NovumOS Invitations API](https://apis.io/apis/novumos-app/novumos-app-invitations-api/) — The invitations API from NovumOS — 3 operation(s) for invitations.
+- [NovumOS Leases API](https://apis.io/apis/novumos-app/novumos-app-leases-api/) — The leases API from NovumOS — 8 operation(s) for leases.
+- [NovumOS Lifecycle API](https://apis.io/apis/novumos-app/novumos-app-lifecycle-api/) — The lifecycle API from NovumOS — 1 operation(s) for lifecycle.
+- [NovumOS Me API](https://apis.io/apis/novumos-app/novumos-app-me-api/) — The me API from NovumOS — 10 operation(s) for me.
+- [NovumOS Meta API](https://apis.io/apis/novumos-app/novumos-app-meta-api/) — The meta API from NovumOS — 1 operation(s) for meta.
+- [NovumOS Notifications API](https://apis.io/apis/novumos-app/novumos-app-notifications-api/) — The notifications API from NovumOS — 4 operation(s) for notifications.
+- [NovumOS Notion Compat API](https://apis.io/apis/novumos-app/novumos-app-notion-compat-api/) — The notion-compat API from NovumOS — 7 operation(s) for notion-compat.
+- [NovumOS Orgs API](https://apis.io/apis/novumos-app/novumos-app-orgs-api/) — The orgs API from NovumOS — 23 operation(s) for orgs.
+- [NovumOS Playbooks API](https://apis.io/apis/novumos-app/novumos-app-playbooks-api/) — The playbooks API from NovumOS — 2 operation(s) for playbooks.
+- [NovumOS Public API](https://apis.io/apis/novumos-app/novumos-app-public-api/) — The public API from NovumOS — 7 operation(s) for public.
+- [NovumOS Realtime API](https://apis.io/apis/novumos-app/novumos-app-realtime-api/) — The realtime API from NovumOS — 2 operation(s) for realtime.
+- [NovumOS Search API](https://apis.io/apis/novumos-app/novumos-app-search-api/) — The search API from NovumOS — 1 operation(s) for search.
+- [NovumOS Share Links API](https://apis.io/apis/novumos-app/novumos-app-share-links-api/) — The share-links API from NovumOS — 2 operation(s) for share-links.
+- [NovumOS Webhooks API](https://apis.io/apis/novumos-app/novumos-app-webhooks-api/) — The webhooks API from NovumOS — 5 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Novumos App Webhooks](https://apis.io/asyncapis/novumos-app/novumos-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NovumOS Agentic Access](https://apis.io/agentic-access/novumos-app/novumos-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AdminFeedbackDetail](https://apis.io/schemas/novumos-app/novumos-app-admin-feedback-detail/)
+- [BxSessionDetail](https://apis.io/schemas/novumos-app/novumos-app-bx-session-detail/)
+- [FeedbackResponse](https://apis.io/schemas/novumos-app/novumos-app-feedback-response/)
+- [InvitationResponse](https://apis.io/schemas/novumos-app/novumos-app-invitation-response/)
+- [PageResponse](https://apis.io/schemas/novumos-app/novumos-app-page-response/)
+- [UpdatePreferencesRequest](https://apis.io/schemas/novumos-app/novumos-app-update-preferences-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Novumos App Context](https://apis.io/jsonld/novumos-app/novumos-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NovumOS API Rules](https://apis.io/rules/novumos-app/novumos-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NovumOS Authentication](https://apis.io/security/novumos-app/novumos-app-authentication/)
+- [NovumOS Domain Security](https://apis.io/security/novumos-app/novumos-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [NovumOS Plans Pricing](https://apis.io/plans/novumos-app/novumos-app-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [NovumOS Rate Limits](https://apis.io/rate-limits/novumos-app/novumos-app-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://novumos.app/)
+- [API reference](https://novumos.app/docs)
+- [Pricing](https://novumos.app/pricing)
+- [Support](https://novumos.app/faq)
+- [Terms of service](https://novumos.app/legal/tos)
+- [Privacy policy](https://novumos.app/legal/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.8** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 64.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 24.3 |
+| Developer ergonomics | 39.8 |
+| Access clarity | 51.5 |
+
+**Agent readiness 49.8** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/novumos-app/](https://apis.io/providers/novumos-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NovumOS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/novumos-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
